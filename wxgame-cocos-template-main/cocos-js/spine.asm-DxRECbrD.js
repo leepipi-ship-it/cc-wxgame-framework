@@ -1,7 +1,0 @@
-System.register([], (function(t) {
-  return {
-    execute: function() {
-      t("default", (function() {}))
-    }
-  }
-}));
